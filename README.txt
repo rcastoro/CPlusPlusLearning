@@ -1,0 +1,1 @@
+This is a repository i created while learning C++ in 2009-2010. Mostly all projects in here contain code I created in response to online/book challenges.
