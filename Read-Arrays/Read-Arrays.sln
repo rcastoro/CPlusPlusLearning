@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Read-Arrays", "Read-Arrays\Read-Arrays.vcproj", "{4BE86848-AD27-4C3A-A61E-5FD228F7F301}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BE86848-AD27-4C3A-A61E-5FD228F7F301}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4BE86848-AD27-4C3A-A61E-5FD228F7F301}.Debug|Win32.Build.0 = Debug|Win32
+		{4BE86848-AD27-4C3A-A61E-5FD228F7F301}.Release|Win32.ActiveCfg = Release|Win32
+		{4BE86848-AD27-4C3A-A61E-5FD228F7F301}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
